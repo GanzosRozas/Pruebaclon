@@ -1,0 +1,13 @@
+C:\Users\SKU-81583\Desktop\Topicos avanzados\PruebaMaterial\obj\Debug\PruebaMaterial.csproj.AssemblyReference.cache
+C:\Users\SKU-81583\Desktop\Topicos avanzados\PruebaMaterial\obj\Debug\PruebaMaterial.csproj.SuggestedBindingRedirects.cache
+C:\Users\SKU-81583\Desktop\Topicos avanzados\PruebaMaterial\obj\Debug\PruebaMaterial.Form1.resources
+C:\Users\SKU-81583\Desktop\Topicos avanzados\PruebaMaterial\obj\Debug\PruebaMaterial.Properties.Resources.resources
+C:\Users\SKU-81583\Desktop\Topicos avanzados\PruebaMaterial\obj\Debug\PruebaMaterial.csproj.GenerateResource.cache
+C:\Users\SKU-81583\Desktop\Topicos avanzados\PruebaMaterial\obj\Debug\PruebaMaterial.csproj.CoreCompileInputs.cache
+C:\Users\SKU-81583\Desktop\Topicos avanzados\PruebaMaterial\bin\Debug\PruebaMaterial.exe.config
+C:\Users\SKU-81583\Desktop\Topicos avanzados\PruebaMaterial\bin\Debug\PruebaMaterial.exe
+C:\Users\SKU-81583\Desktop\Topicos avanzados\PruebaMaterial\bin\Debug\PruebaMaterial.pdb
+C:\Users\SKU-81583\Desktop\Topicos avanzados\PruebaMaterial\bin\Debug\MaterialSkin.dll
+C:\Users\SKU-81583\Desktop\Topicos avanzados\PruebaMaterial\obj\Debug\PruebaMaterial.csproj.CopyComplete
+C:\Users\SKU-81583\Desktop\Topicos avanzados\PruebaMaterial\obj\Debug\PruebaMaterial.exe
+C:\Users\SKU-81583\Desktop\Topicos avanzados\PruebaMaterial\obj\Debug\PruebaMaterial.pdb
